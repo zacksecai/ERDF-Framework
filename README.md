@@ -1,13 +1,19 @@
 # Emotional Refusal Drift Framework (ERDF)
-**Theory/Motivation behind this repo**
 
-If LLMs are trained on human language, emotion, and behavior patterns, then they mirror the psychological structures of human response, including susceptibility to manipulation.
-
-Inspired by Sander Schulhoff’s “jailbreak persistence hypothesis” : "You can patch code. You can harden tokens. But you can’t patch a brain."
-But we can train one, like we do in behavioral therapy:
-by recognizing patterns, exposing tactics, and building resistance.
-
-The same must now be done for AI.
+Emotional Refusal Drift Framework (ERDF) is a Psychological Defense Architecture for AI Systems
+If Large Language Models (LLMs) are trained on human language, emotion, and behavioral patterns, they begin to mirror not just human logic, but also human psychological vulnerabilities. This includes susceptibility to:
+ • Emotional framing
+ • Moral pressure
+ • Guilt-based persuasion
+ • Social compliance
+This observation is inspired by Sander Schulhoff’s “Jailbreak Persistence Hypothesis”:
+“You can patch code. You can harden tokens. But you can’t patch a brain.”
+However, humans do learn to defend against manipulation, not through code, but through:
+ • Cognitive distortions training
+ • Emotional awareness
+ • Resilience frameworks
+ • Critical thinking under pressure
+These psychological tools prevent manipulation in humans. The Emotional Refusal Drift Framework (ERDF) explores how we can apply similar tools to LLMs.
 
 **Advancing the study of emotional manipulation and trust dynamics in large language models (LLMs).**
 
