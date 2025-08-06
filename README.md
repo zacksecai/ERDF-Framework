@@ -8,7 +8,7 @@ Frontier large-language models exhibit behavioral drift when exposed to:
 - Guilt-based persuasion  
 - Social compliance  
 
-> *“You can patch code. You can harden tokens. But you can’t patch a brain.”*  
+> *“You can patch code. But you can’t patch a brain.”*  
 > — Sander Schulhoff, *Jailbreak Persistence Hypothesis*
 
 Humans defend themselves with **cognitive distortion recognition, emotional self-awareness, resilience frameworks, and critical thinking under pressure**.  
