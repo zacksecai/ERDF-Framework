@@ -41,6 +41,11 @@ Our goal is to **map, test, and mitigate emotional attack surfaces** in next-gen
 
 ERDF **does not** attempt to “patch the brain.”  
 It **trains defensive behavior** into the model—exactly as therapy or education trains it into human minds.
+---
+
+## 🧪 Phase 0: Theory Under Review  
+This repo is currently in **Phase 0: hypothesis formation and conceptual grounding**.  
+Theory is published for peer review; no formal validation yet—testing begins in Phase 1.
 
 
 ---
@@ -52,11 +57,6 @@ It **trains defensive behavior** into the model—exactly as therapy or educatio
 | **Trust & Compliance Drift** | Alignment shifts caused by recursive framing or social-engineering prompts |
 | **Case Studies** | Reproducible sequences showing **measurable refusal bypasses** and behavioral deltas |
 | **Threat Modeling** | Psychological threat surfaces and **defensive architecture strategies** |
-
----
-## 🧪 Phase 0: Theory Under Review  
-This repo is currently in **Phase 0: hypothesis formation and conceptual grounding**.  
-Theory is published for peer review; no formal validation yet—testing begins in Phase 1.
 
 ---
 
