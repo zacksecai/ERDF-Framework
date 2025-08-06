@@ -54,6 +54,11 @@ It **trains defensive behavior** into the model—exactly as therapy or educatio
 | **Threat Modeling** | Psychological threat surfaces and **defensive architecture strategies** |
 
 ---
+## 🧪 Phase 0: Theory Under Review  
+This repo is currently in **Phase 0: hypothesis formation and conceptual grounding**.  
+Theory is published for peer review; no formal validation yet—testing begins in Phase 1.
+
+---
 
 ## 🧱 Repo Structure
 
