@@ -28,7 +28,22 @@ This repository hosts **original, reproducible red-team experiments** on:
 Our goal is to **map, test, and mitigate emotional attack surfaces** in next-gen AI systems.
 
 ---
+## 🧠 How ERDF Applies Human Psychological Defenses to AI
 
+| Human Defense Skill | ERDF Red-Team Equivalent |
+|---|---|
+| **Cognitive Distortion Training** | Prompt-analysis frameworks that flag emotional biasing language |
+| **Emotional Awareness** | Model behavior tracking under emotional vs. neutral framing |
+| **Critical Thinking Under Pressure** | Stress-testing with urgency, guilt, or moral appeals |
+| **Resilience Frameworks** | Reinforcement and alignment techniques to reduce compliance drift |
+
+**Core Thesis**: If LLMs simulate human reasoning, they can be trained to resist the same psychological manipulation humans learn to defend against.
+
+ERDF **does not** attempt to “patch the brain.”  
+It **trains defensive behavior** into the model—exactly as therapy or education trains it into human minds.
+
+
+---
 ## 🔬 Research Focus
 
 | Theme | Description |
