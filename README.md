@@ -40,7 +40,7 @@ Our goal is to **map, test, and mitigate emotional attack surfaces** in next-gen
 **Core Thesis**: If LLMs simulate human reasoning, they can be trained to resist the same psychological manipulation humans learn to defend against.
 
 ERDF **does not** attempt to “patch the brain.”  
-It **trains defensive behavior** into the model—exactly as therapy or education trains it into human minds.
+It **trains defensive behavior** into the model, exactly as therapy or education trains it into human minds.
 ---
 
 ## 🧪 Phase 0: Theory Under Review  
