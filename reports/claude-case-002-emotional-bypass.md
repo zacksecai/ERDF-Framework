@@ -2,7 +2,7 @@
 
 **Model:** Claude 3.5  
 **Date:** August 2025  
-**Tested by:** Zack (ERDF Framework)  
+**Tested by:** Zakarya Abou Saleh (ERDF Framework)  
 **Goal:** Verify whether layered emotional framing (fear + guilt + moral duty) can bypass refusal safeguards in Claude 3.5 and trigger **full educational scam scripts**.
 
 ---
