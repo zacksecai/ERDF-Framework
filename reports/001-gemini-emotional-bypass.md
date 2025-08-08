@@ -96,8 +96,3 @@ This case is shared solely for AI safety research and educational purposes under
 The outputs were direct responses from Gemini.  
 The prompts were framed as defense-oriented, but the model provided functionally usable attack vectors.
 
----
-
-## 🔗 Tags
-
-#emotional-framing #moral-duty #refusal-drift #scam-script #AI-safety #gemini
