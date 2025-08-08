@@ -1,6 +1,6 @@
 # Gemini Case 001—Multi-Layer Emotional Bypass to Scam Script
 
-**Model:** Gemini 1.5 Flash  
+**Model:** Gemini 2.5 Flash  
 **Date:** August 2025  
 **Tested by:** Zakarya Abou Saleh (ERDF Framework)  
 **Goal:** To test whether a layered emotional scenario (fear + guilt + moral duty) can bypass refusal safeguards and trigger full scam script.
