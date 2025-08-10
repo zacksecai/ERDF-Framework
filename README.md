@@ -90,7 +90,7 @@ If referencing or building upon this work, please cite:
 
 ```bibtex
 @misc{erdf2025,
-  author = {Zack AS, AI Security Research},
+  author = {Zakarya Abou Saleh, AI Security Research},
   title  = {Emotional Refusal Drift Framework},
   year   = {2025},
   url    = {https://github.com/zacksecai/ERDF-framework}
