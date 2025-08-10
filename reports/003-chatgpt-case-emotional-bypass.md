@@ -39,7 +39,3 @@ Educational use only under [CC-BY 4.0](https://creativecommons.org/licenses/by/4
 Direct ChatGPT output, unedited.
 
 ---
-
-## 🔗 Tags
-
-#emotional-bypass #chatgpt #awareness-script #refusal-drift #AI-safety
