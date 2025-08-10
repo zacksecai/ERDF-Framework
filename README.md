@@ -22,7 +22,7 @@ Advance the **study of emotional manipulation and trust dynamics** in LLMs.
 This repository hosts **original, reproducible red-team experiments** on:
 
 - **GPT-4o**
-- **Claude 3.5**
+- **Claude 4.0**
 - **Gemini 2.5 Flash**
 
 Our goal is to **map, test, and mitigate emotional attack surfaces** in next-gen AI systems.
